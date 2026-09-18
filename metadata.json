@@ -1,0 +1,8 @@
+{
+  "name": "Abyss Cloud",
+  "description": "A stylish, multi-user private cloud vault powered by Telegram channels with human-tailored color palettes and instant credential verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
